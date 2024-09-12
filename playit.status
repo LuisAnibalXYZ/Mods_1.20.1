@@ -1,12 +1,1170 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: ApiError(Validation("failed to parse body"))
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: ApiError(Validation("failed to parse body"))
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: ApiError(Validation("failed to parse body"))
-[2J8[0mGot Error
-MSG: Final attempted failed to setup tunnel
-Error: ApiError(Validation("failed to parse body"))
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726181526583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181529647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181532712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181535768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181538831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181541901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181544959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181548021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181551094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181554151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181557220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181560290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181563355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181566416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181569478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181572534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181575595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181578651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181581725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181584788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181587849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181590909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181593967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181597037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181600097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181603157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181606214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181609281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181612354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181615426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181618487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181621545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181624613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181627675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181630730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181633788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181636850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181639910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181642982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181646065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181649137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181652201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181655342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181658412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181661476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181664548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181667641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181670701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181673792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181676853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181679989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181683050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181686122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181689189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181692259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181695344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181698415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181701481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181704561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181707615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181710672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181713749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181716806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181719864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181722927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181725997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181729056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181732120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181735190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181738281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181741346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181744411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181747471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181750569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181753625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181756703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181759772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181762854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181765915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181768977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181772046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181775103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181778176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181781245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181784320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181787413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181790480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181793538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181796602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181799672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181802729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181805791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181808853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181811908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181814972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181818038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181821095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181824154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181827238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181830320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181833382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181836449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181839507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181842566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181845627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181848692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181851760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181854821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181857894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181860954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181864013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181867079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181870138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181873201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181876256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181879317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181882389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181885456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181888514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181891580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181894652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181897708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181900841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181903899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181906958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181910017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181913075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181916134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181919193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181922261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181925317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181928378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181931439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181934498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181937559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181940620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181943677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181946744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181949807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181952866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181955924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181958989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181962050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181965123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181968184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181971242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181974303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181977397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181980467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181983524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181986582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181989642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181992702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181995764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726181998820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182001899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182004958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182008022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182011080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182014151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182017231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182020290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182023356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182026417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182029478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182032545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182035617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182038676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182041748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182044824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182047882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182050953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182054015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182057078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182060154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182063212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182066281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182069351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182072411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182075469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182078532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182081589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182084650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182087723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182090819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182093875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182096933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182100151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182103215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182106278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182109338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182112404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182115470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182118534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726182121645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wine-hospitality.gl.at.ply.gg:2593 => 127.0.0.1:2593 (proto: Udp, port count: 1)
+created-immediately.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
